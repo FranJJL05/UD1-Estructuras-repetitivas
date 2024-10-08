@@ -1,10 +1,10 @@
 Algoritmo ejercicio8
-	//Escribe un programa que dados dos números, uno real (base) y un entero positivo (exponente), saque
+	//Escribe un programa que dados dos nÃºmeros, uno real (base) y un entero positivo (exponente), saque
 	//por pantalla el resultado de la potencia. No se puede utilizar el operador de potencia.
 	
-	Escribir "Ingrese la base (número real):"
+	Escribir "Ingrese la base (nÃºmero real):"
     Leer base
-    Escribir "Ingrese el exponente (número entero positivo):"
+    Escribir "Ingrese el exponente (nÃºmero entero positivo):"
     Leer exponente
 	
     resultado = 1
